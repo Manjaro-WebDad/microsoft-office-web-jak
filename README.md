@@ -13,7 +13,7 @@ This launcher uses JAK to display Microsoft Office Suite Online as native applic
 
 ### Dependencies
 
-* Jade Application Kit >= 0.36
+* Jade Application Kit >= 2.0.0
 
 ### Building
 
