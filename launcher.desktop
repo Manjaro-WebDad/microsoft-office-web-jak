@@ -1,12 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Terminal=false
-Icon=ms-office
+Icon=/usr/share/pixmaps/ms-office.png
 Type=Application
 Categories=Office
 Exec=ms-office-online
 Name=Microsoft Office Online
 GenericName=Microsoft Office Online
 Comment=Use the online version of Microsoft Office
-Keywords=office;web;internet
+Keywords=office;web;internet;word;excel;powerpoint;onenote;outlook;forms;flow;sway;tasks;onedrive;dropbox;online
 StartupNotify=true
