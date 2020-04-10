@@ -122,7 +122,7 @@ def office():
         ["ODT to DOCX", "odt_to_docx()"]]}
 
     webapp = JWebApp(title="Microsoft Office Online", icon=icon, web_contents=start, online=True,
-                     cookies_path="microsoft", url_rules=rules, custom_css=css_hide, menus=menus)
+                     cookies_path="microsoft", url_rules=rules, add_CSS=css_hide, menus=menus, MediaVideoCapture=True, MediaAudioCapture=True)
 
     return webapp
 
